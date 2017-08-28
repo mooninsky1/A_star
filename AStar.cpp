@@ -1,6 +1,6 @@
 #include "StdAfx.h"
 #include "AStar.h"
-
+//lihf 2017/08/28
 int CAStar::m_moveCostHorizontal = 5;
 int CAStar::m_moveCostDiagonal = 7;
 
